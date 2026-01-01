@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/1734d6e9-c6b3-4c28-9eee-eb7c38f373c7
 - Wireless Sensor Network (WSN) Simulation
 - Data Visualization
 
-##Future Scope
+## Future Scope
 - Integrate Machine Learning techniques to reduce localization error using historical data.
 - Extend the localization model to 3D environments.
 - Deploy the approach in real-time IoT and smart city applications.

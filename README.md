@@ -26,10 +26,10 @@ These visualizations help evaluate the accuracy, behavior, and robustness of the
 https://github.com/user-attachments/assets/1734d6e9-c6b3-4c28-9eee-eb7c38f373c7
 
 ## How to Run the Project
-  To run the project locally:
+To run the project locally:
   - pip install numpy matplotlib
   - python range_free_localization.py
-  Ensure that Python is installed and the required libraries are available.
+Ensure that Python is installed and the required libraries are available.
 
 
 ## Technologies Used

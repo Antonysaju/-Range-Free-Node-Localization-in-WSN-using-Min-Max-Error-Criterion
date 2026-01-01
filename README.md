@@ -30,8 +30,6 @@ Ensure that Python is installed and the required libraries are available.
 To run the project locally:
   - pip install numpy matplotlib
   - python range_free_localization.py
-Ensure that Python is installed and the required libraries are available.
-
 
 ## Technologies Used
 - Python

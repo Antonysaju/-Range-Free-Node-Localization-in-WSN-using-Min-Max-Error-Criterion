@@ -12,7 +12,7 @@ The localization process is based on a range-free Min–Max Error Criterion:
 - Localization error is calculated as the Euclidean distance between true and estimated positions.
 - The system visualizes localization accuracy, performance trends, and real-time node mobility.
 
-##Output & Results
+## Output & Results
 
 The project generates a single comprehensive visualization consisting of three components:
 
@@ -25,14 +25,14 @@ These visualizations help evaluate the accuracy, behavior, and robustness of the
 
 https://github.com/user-attachments/assets/1734d6e9-c6b3-4c28-9eee-eb7c38f373c7
 
-##How to Run the Project
+## How to Run the Project
   To run the project locally:
     pip install numpy matplotlib
     python range_free_localization.py
   Ensure that Python is installed and the required libraries are available.
 
 
-##Technologies Used
+## Technologies Used
 - Python
 - NumPy
 - Matplotlib
